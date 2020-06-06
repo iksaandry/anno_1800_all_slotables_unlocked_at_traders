@@ -25,7 +25,7 @@ Traders and categories of goods list:
 	- Botanical Garden Sets (51 items)
 	- Trade union + Town Hall + Harbourmaster's office Attractiveness slotables (82 items)
 
-## Isabel Sarmento - New World (Total: 124 items)
+## Isabel Sarmento (El Puerto) - New World (Total: 124 items)
 	- Museum non set Artifacts (55 items)
 	- Botanical Garden non set Plants (17 items) 
 	- Zoo non set Animals (43 items) & New World's Treasure Maps (9 items)
