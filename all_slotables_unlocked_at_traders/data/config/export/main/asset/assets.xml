@@ -1305,6 +1305,7 @@
 				<Item><ItemLink>112935</ItemLink><Weight>10</Weight></Item>
 				<Item><ItemLink>115477</ItemLink><Weight>10</Weight></Item>
 			</ItemsPool>
+			<IgnoreUnlocks>1</IgnoreUnlocks>
 		</RewardPool>
 	</ModOp>
 	<!-- Qumaq - Arctic | Airships (5 items), Arctic Lodge (47 items), Arctic Treasure Maps (9 items). (Total: 61 items)  -->
@@ -1376,6 +1377,7 @@
 				<Item><ItemLink>116100</ItemLink><Weight>10</Weight></Item>
 				<Item><ItemLink>116163</ItemLink><Weight>10</Weight></Item>
 			</ItemsPool>
+			<IgnoreUnlocks>1</IgnoreUnlocks>
 		</RewardPool>
 	</ModOp>
 	<!-- Mergers -->
