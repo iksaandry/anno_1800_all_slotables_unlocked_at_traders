@@ -38,4 +38,4 @@ Qumaq - Arctic (Total: 61 items)
 	Arctic Lodge (47 items), 
 	Arctic Treasure Maps (9 items).
 
-Huge thanks to @Veraatversus and the team at https://github.com/Miraak7000/AssetViewer for helping make this mod possible.
+Huge thanks to @Veraatversus and the team at https://github.com/Miraak7000/AssetViewer for providing the tool to make this mod possible.
