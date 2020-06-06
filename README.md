@@ -5,7 +5,7 @@
 
 Traders and categories of goods list:
 
-## Sir Archbald ***(High Clarence Hall)*** - Old World (Total: 210 items)
+## Sir Archbald Blake ***(High Clarence Hall)*** - Old World (Total: 210 items)
 	- Equipables for military ships (56 items)
 	- sailing ships (3 items) 
 	- ships (62 items) 
