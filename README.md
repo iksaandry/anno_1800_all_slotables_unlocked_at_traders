@@ -20,6 +20,7 @@ Traders and categories of goods list:
 	- Town Hall (218 items)
   
 ## Madame Kahina ***(Emporium Exotique)*** - Old World (Total: 269 items)
+![Botanical_Garden_Complete](https://raw.githubusercontent.com/iksaandry/anno_1800_all_slotables_unlocked_at_traders/master/assets/botanical_garden.PNG)
 	- Ornaments (11 items) 
 	- Music Sheets (5 items)
 	- Museum sets (60 items) 
