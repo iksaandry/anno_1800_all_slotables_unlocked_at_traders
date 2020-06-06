@@ -5,7 +5,7 @@
 
 Traders and categories of goods list:
 
-## Sir Archbald - Old World (Total: 210 items)
+## Sir Archbald ***(High Clarence Hall)*** - Old World (Total: 210 items)
 	- Equipables for military ships (56 items)
 	- sailing ships (3 items) 
 	- ships (62 items) 
@@ -13,11 +13,11 @@ Traders and categories of goods list:
 	- Old World's Treasure Maps (9 items) 
 	- Habourmaster's Office (71 items)
 
-## Eli Bleakworth (Jailer) - Old World (Total: 541 items)
+## Eli Bleakworth ***(Wormways Prision)*** - Old World (Total: 541 items)
 	- Equipables for Trade Union (323 items) 
 	- Town Hall (218 items)
   
-## Madame Kahina (Emporio Exotique) - Old World (Total: 269 items)
+## Madame Kahina ***(Emporium Exotique)*** - Old World (Total: 269 items)
 	- Ornaments (11 items) 
 	- Music Sheets (5 items)
 	- Museum sets (60 items) 
@@ -25,17 +25,17 @@ Traders and categories of goods list:
 	- Botanical Garden Sets (51 items)
 	- Trade union + Town Hall + Harbourmaster's office Attractiveness slotables (82 items)
 
-## Isabel Sarmento (El Puerto) - New World (Total: 124 items)
+## Isabel Sarmento ***(El Puerto)*** - New World (Total: 124 items)
 	- Museum non set Artifacts (55 items)
 	- Botanical Garden non set Plants (17 items) 
 	- Zoo non set Animals (43 items) & New World's Treasure Maps (9 items)
 
-## Old Nate - Cape Trelawney (Total: 76 items)
+## Old Nate ***(Salmagundi)*** - Cape Trelawney (Total: 76 items)
 	- Airships (5 items)
 	- Salvager (33 items) 
 	- All Treasure Maps (38 items)
 
-## Qumaq - Arctic (Total: 61 items)
+## Qumaq ***(Tunnganarniq)*** - Arctic (Total: 61 items)
 	- Airships (5 items)
 	- Arctic Lodge (47 items)
 	- Arctic Treasure Maps (9 items)
