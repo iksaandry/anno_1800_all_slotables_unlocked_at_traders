@@ -1,7 +1,7 @@
 # Mod to unlock all slotables at traders for Anno 1800
 (anno_1800_all_slotables_unlocked_at_traders)
 
-Traders and goods list:
+Traders and categories of goods list:
 
 ## Sir Archbald - Old World (Total: 210 items)
 	- Equipables for military ships (56 items)
