@@ -876,6 +876,24 @@
 				<Item><ItemLink>124878</ItemLink><Weight>10</Weight><!-- Hor Statue --></Item>
 				<Item><ItemLink>124879</ItemLink><Weight>10</Weight><!-- Statue of Anubis --></Item>
 				<Item><ItemLink>124880</ItemLink><Weight>10</Weight><!-- Temple of Nafir Diorama --></Item>
+				<!-- HEIRLOOMS OF THE GOLD REALM -->
+				<Item><ItemLink>124876</ItemLink><Weight>10</Weight><!--Masu Masu's Trinket--></Item>
+				<Item><ItemLink>124877</ItemLink><Weight>10</Weight><!--Masu's Mapamundi--></Item>
+				<Item><ItemLink>124881</ItemLink><Weight>10</Weight><!--Tambacto Diorama--></Item>
+				<!-- LOST TRIBES -->
+				<Item><ItemLink>124867</ItemLink><Weight>10</Weight><!--Bovine Ivory Ring--></Item>
+				<Item><ItemLink>124868</ItemLink><Weight>10</Weight><!--Painted Mask--></Item>
+				<Item><ItemLink>124869</ItemLink><Weight>10</Weight><!--Animal Figure--></Item>
+				<Item><ItemLink>124873</ItemLink><Weight>10</Weight><!--Mother and Child Figure--></Item>
+				<Item><ItemLink>124874</ItemLink><Weight>10</Weight><!--Striking Terracotta Figure--></Item>
+				<Item><ItemLink>124882</ItemLink><Weight>10</Weight><!--Intricate Baked Mud Tile--></Item>
+				<!-- ROOTS OF EMBESA -->
+				<Item><ItemLink>124870</ItemLink><Weight>10</Weight><!--Glory of Kings--></Item>
+				<Item><ItemLink>124871</ItemLink><Weight>10</Weight><!--Lion of Selamawi--></Item>
+				<Item><ItemLink>124875</ItemLink><Weight>10</Weight><!--Arksum Obelisk--></Item>
+				<Item><ItemLink>124883</ItemLink><Weight>10</Weight><!--The Ark of the Covenant--></Item>
+				<Item><ItemLink>124884</ItemLink><Weight>10</Weight><!--Ghebbi Diorama--></Item>
+				<Item><ItemLink>124885</ItemLink><Weight>10</Weight><!--Kidusi Church Diorama--></Item>
 				<!-- Zoo Sets -->
 				<!-- ABYSSAL DEPTHS -->
 				<Item><ItemLink>112812</ItemLink><Weight>10</Weight></Item>
