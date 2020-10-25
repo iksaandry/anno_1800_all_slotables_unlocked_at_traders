@@ -872,6 +872,10 @@
 				<Item><ItemLink>114799</ItemLink><Weight>10</Weight></Item>
 				<Item><ItemLink>115472</ItemLink><Weight>10</Weight></Item>
 				<Item><ItemLink>115473</ItemLink><Weight>10</Weight></Item>
+				<!-- GODS OF THE DELTA -->
+				<Item><ItemLink>124878</ItemLink><Weight>10</Weight><!-- Hor Statue --></Item>
+				<Item><ItemLink>124879</ItemLink><Weight>10</Weight><!-- Statue of Anubis --></Item>
+				<Item><ItemLink>124880</ItemLink><Weight>10</Weight><!-- Temple of Nafir Diorama --></Item>
 				<!-- Zoo Sets -->
 				<!-- ABYSSAL DEPTHS -->
 				<Item><ItemLink>112812</ItemLink><Weight>10</Weight></Item>
