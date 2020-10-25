@@ -968,6 +968,35 @@
 				<Item><ItemLink>191072</ItemLink><Weight>10</Weight></Item>
 				<Item><ItemLink>191052</ItemLink><Weight>10</Weight></Item>
 				<Item><ItemLink>191083</ItemLink><Weight>10</Weight></Item>
+				<!-- ENBESAN HIGHLANDS -->
+				<Item><ItemLink>124060</ItemLink><Weight>10</Weight><!-- Bearded Vulture--> </Item>
+				<Item><ItemLink>124147</ItemLink><Weight>10</Weight><!-- Enbesan Wolf--> </Item>
+				<Item><ItemLink>124148</ItemLink><Weight>10</Weight><!-- Two-Horned Chameleon--> </Item>
+				<Item><ItemLink>124152</ItemLink><Weight>10</Weight><!-- Mountain Nyala--> </Item>
+				<Item><ItemLink>124153</ItemLink><Weight>10</Weight><!-- Oryxe--> </Item>
+				<Item><ItemLink>124159</ItemLink><Weight>10</Weight><!-- Gelada--> </Item>
+				<!-- GREAT DESERT -->
+				<Item><ItemLink>124075</ItemLink><Weight>10</Weight><!-- Dromedary--> </Item>
+				<Item><ItemLink>190455</ItemLink><Weight>10</Weight><!-- Fennec--> </Item>
+				<Item><ItemLink>190457</ItemLink><Weight>10</Weight><!-- Emperor Scorpion--> </Item>
+				<!-- MIOMBO WOODLANDS -->
+				<Item><ItemLink>124150</ItemLink><Weight>10</Weight><!-- Wild Dog--> </Item>
+				<Item><ItemLink>124156</ItemLink><Weight>10</Weight><!-- Impala--> </Item>
+				<Item><ItemLink>124157</ItemLink><Weight>10</Weight><!-- Caracal--> </Item>
+				<Item><ItemLink>124161</ItemLink><Weight>10</Weight><!-- Giraffe--> </Item>
+				<Item><ItemLink>124163</ItemLink><Weight>10</Weight><!-- Elephant--> </Item>
+				<Item><ItemLink>124164</ItemLink><Weight>10</Weight><!-- Black Rhino--> </Item>
+				<!-- PROUD SAVANNAH -->
+				<Item><ItemLink>124149</ItemLink><Weight>10</Weight><!-- Imperial Zebra--> </Item>
+				<Item><ItemLink>124154</ItemLink><Weight>10</Weight><!-- Spotted Hyena--> </Item>
+				<Item><ItemLink>124155</ItemLink><Weight>10</Weight><!-- Wildebeest--> </Item>
+				<Item><ItemLink>124160</ItemLink><Weight>10</Weight><!-- Cheetah--> </Item>
+				<Item><ItemLink>124162</ItemLink><Weight>10</Weight><!-- Lion--> </Item>
+				<Item><ItemLink>191503</ItemLink><Weight>10</Weight><!-- Ostrich--> </Item>
+				<!-- TEEMING LAKES -->
+				<Item><ItemLink>124151</ItemLink><Weight>10</Weight><!-- Grey Crowned Crane--> </Item>
+				<Item><ItemLink>124158</ItemLink><Weight>10</Weight><!-- Hippopotamus--> </Item>
+				<Item><ItemLink>191505</ItemLink><Weight>10</Weight><!-- Flamingo--> </Item>
 				<!-- Botanical Garden Sets -->
 				<!-- AMAZON -->
 				<Item><ItemLink>112612</ItemLink><Weight>10</Weight></Item>
