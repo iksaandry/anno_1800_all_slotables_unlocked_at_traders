@@ -55,7 +55,7 @@ Traders and categories of goods list:
 	- Salvager (33 items) 
 	- All Treasure Maps (38 items)
 
-![Qumaq](https://raw.githubusercontent.com/iksaandry/anno_1800_all_slotables_unlocked_at_traders/master/assets/Qumaq (1).png)
+![Qumaq](https://raw.githubusercontent.com/iksaandry/anno_1800_all_slotables_unlocked_at_traders/master/assets/Qumaq%20(1).png)
 
 ## Qumaq ***(Tunnganarniq)*** - Arctic (Total: 61 items)
 	- Airships (5 items)
