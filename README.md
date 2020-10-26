@@ -59,6 +59,12 @@
 	- Botanical Garden non set Plants (17 items) 
 	- Zoo non set Animals (43 items) & New World's Treasure Maps (9 items)
 
+![Jean La Fortune](https://raw.githubusercontent.com/iksaandry/anno_1800_all_slotables_unlocked_at_traders/master/assets/images/traders/Jean_La_Fortune.png)
+
+## **Jean La Fortune** ***(High Mountain)*** - New World (Total: 70 items)
+
+	-  Legendary Items for Town Hall (30 Items) & Trade Union (40 Items)
+
 ![Old Nate](https://raw.githubusercontent.com/iksaandry/anno_1800_all_slotables_unlocked_at_traders/master/assets/images/traders/Old_Nate.png)
 
 ## **Old Nate** ***(Salmagundi)*** - Cape Trelawney (Total: 76 items)
