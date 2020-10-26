@@ -72,9 +72,19 @@
 	- Salvager (33 items) 
 	- All Treasure Maps (38 items)
 
+![Emperor Ketema](https://raw.githubusercontent.com/iksaandry/anno_1800_all_slotables_unlocked_at_traders/master/assets/images/traders/emperor_ketema.png)
+
+## **Emperor Ketema** ***(Taborime)*** - Enbesa (Total: 81 items ***Land of Lions***)
+	
+	- Harbourmaster's Office (7 items ***Land of Lions***) 
+	- Trade Union (38 items ***Land of Lions***)
+	- Town Hall (26 Items ***Land of Lions***) 
+	- Enbesa Treasure Maps (10 items ***Land of Lions***)
+
 ![Qumaq](https://raw.githubusercontent.com/iksaandry/anno_1800_all_slotables_unlocked_at_traders/master/assets/images/traders/Qumaq_.png)
 
 ## **Qumaq** ***(Tunnganarniq)*** - Arctic (Total: 61 items)
+
 	- Airships (5 items)
 	- Arctic Lodge (47 items)
 	- Arctic Treasure Maps (9 items)
