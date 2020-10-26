@@ -1140,11 +1140,11 @@
 			<IgnoreUnlocks>1</IgnoreUnlocks>
 		</RewardPool>
 	</ModOp>
-	<!-- Anne Harlow - Old World | Legendaries for Ships and Harbourmaster's Office (Total: 48 item) -->
+	<!-- Anne Harlow (Pirates) - Old World | Legendaries for Ships and Harbourmaster's Office (48 items), Legendary Treasure Maps (15 items) (Total: 63 items) -->
 	<ModOp Type="replace" GUID='192070' Path="/Values/RewardPool">
 		<RewardPool>
 			<ItemsPool>
-				<!-- Legendaries for Ships and Harbourmaster's Office (48 item) -->
+				<!-- Legendaries for Ships and Harbourmaster's Office (48 items) -->
 				<item><ItemLink>191610</ItemLink><Weight>10</Weight></item> <!--Admiral Haynes-->
 				<item><ItemLink>191451</ItemLink><Weight>10</Weight></item> <!--Captain Felicity Phoenix-->
 				<item><ItemLink>191452</ItemLink><Weight>10</Weight></item> <!--Captain Richard Moses-->
@@ -1193,6 +1193,22 @@
 				<item><ItemLink>192434</ItemLink><Weight>10</Weight></item> <!--Pyrphorian Flame Thrower-->
 				<item><ItemLink>191855</ItemLink><Weight>10</Weight></item> <!--Strongarm's Disappearing Gun-->
 				<item><ItemLink>191607</ItemLink><Weight>10</Weight></item> <!--Wilma the Wild-->
+				<!-- Legendary Treasure Maps (15 items) -->
+				<item><ItemLink>129238</ItemLink><Weight>10</Weight></item> <!--Cliffside Map-->
+				<item><ItemLink>113194</ItemLink><Weight>10</Weight></item> <!--Jörmungandr's Lair-->
+				<item><ItemLink>129240</ItemLink><Weight>10</Weight></item> <!--Map of an Ancient Outpost-->
+				<item><ItemLink>113204</ItemLink><Weight>10</Weight></item> <!--Map of Isabel Sarmento's Emergency Vault-->
+				<item><ItemLink>115483</ItemLink><Weight>10</Weight></item> <!--Map of Old Nate's Prototype Airship Crash Site-->
+				<item><ItemLink>113205</ItemLink><Weight>10</Weight></item> <!--Map of Vicente Silva's Sunken Ship-of-the-Line-->
+				<item><ItemLink>113203</ItemLink><Weight>10</Weight></item> <!--Map of Willie Wibblesock's Wondrous Stash-->
+				<item><ItemLink>115480</ItemLink><Weight>10</Weight></item> <!--Megalodon's Abyss-->
+				<item><ItemLink>129251</ItemLink><Weight>10</Weight></item> <!--Shipwrecked Captain's Map-->
+				<item><ItemLink>112940</ItemLink><Weight>10</Weight></item> <!--The Gates to Paititi-->
+				<item><ItemLink>112941</ItemLink><Weight>10</Weight></item> <!--The Herdsman's Journal-->
+				<item><ItemLink>113196</ItemLink><Weight>10</Weight></item> <!--The Kraken's Pit-->
+				<item><ItemLink>113195</ItemLink><Weight>10</Weight></item> <!--The Nest of Gukulmatz-->
+				<item><ItemLink>112935</ItemLink><Weight>10</Weight></item> <!--The Palaces of Baiea-->
+				<item><ItemLink>115477</ItemLink><Weight>10</Weight></item> <!--The Portal to Hyperborea-->
 			</ItemsPool>
 			<IgnoreUnlocks>1</IgnoreUnlocks>
 		</RewardPool>
@@ -1333,7 +1349,87 @@
 			<IgnoreUnlocks>1</IgnoreUnlocks>
 		</RewardPool>
 	</ModOp>
-	<!-- Old Nate - Cape Trelawney | Airships (5 items), Salvager (33 items) & All Treasure Maps (38 items). (Total: 76 items) -->
+	<!-- Jean La Fortune (Pirates) - New World | Legendary Items for Town Hall (30 Items) & Trade Union (40 Items) (Total: 70 items) -->
+	<ModOp Type="replace" GUID='192071' Path="/Values/RewardPool">
+		<RewardPool>
+			<ItemsPool>
+				<!-- Legendary Items for Town Hall (30 Items) -->
+				<item><ItemLink>125132</ItemLink><Weight>10</Weight></item> <!--Aesop-->
+				<item><ItemLink>121004</ItemLink><Weight>10</Weight></item> <!--Amadi Ilga-->
+				<item><ItemLink>191568</ItemLink><Weight>10</Weight></item> <!--Anne Kenyatta-->
+				<item><ItemLink>191470</ItemLink><Weight>10</Weight></item> <!--Aristelia Bataille-->
+				<item><ItemLink>190658</ItemLink><Weight>10</Weight></item> <!--Chief George Doughty-->
+				<item><ItemLink>125143</ItemLink><Weight>10</Weight></item> <!--Dean-->
+				<item><ItemLink>190410</ItemLink><Weight>10</Weight></item> <!--Dr. Maurice Slim-->
+				<item><ItemLink>111169</ItemLink><Weight>10</Weight></item> <!--Eduardo Bernal-->
+				<item><ItemLink>113800</ItemLink><Weight>10</Weight></item> <!--Fernando de Faro-->
+				<item><ItemLink>190674</ItemLink><Weight>10</Weight></item> <!--Franck von Lewenstein-->
+				<item><ItemLink>116186</ItemLink><Weight>10</Weight></item> <!--Hilarious Helium Party Balloon Pump-->
+				<item><ItemLink>191579</ItemLink><Weight>10</Weight></item> <!--Jakob Sokow-->
+				<item><ItemLink>191573</ItemLink><Weight>10</Weight></item> <!--Joseph Beaumont-->
+				<item><ItemLink>125114</ItemLink><Weight>10</Weight></item> <!--Kaldi-->
+				<item><ItemLink>190724</ItemLink><Weight>10</Weight></item> <!--Louis P. Hecate-->
+				<item><ItemLink>125134</ItemLink><Weight>10</Weight></item> <!--Mulatu-->
+				<item><ItemLink>125125</ItemLink><Weight>10</Weight></item> <!--Patriarch Matteos X-->
+				<item><ItemLink>111180</ItemLink><Weight>10</Weight></item> <!--Pietro Jonah Proud-->
+				<item><ItemLink>190719</ItemLink><Weight>10</Weight></item> <!--Pope Lucius I-->
+				<item><ItemLink>111024</ItemLink><Weight>10</Weight></item> <!--Proclamation of Knighthood-->
+				<item><ItemLink>190679</ItemLink><Weight>10</Weight></item> <!--Prof. Iwa Ebashi-->
+				<item><ItemLink>190193</ItemLink><Weight>10</Weight></item> <!--Saint D'Artois-->
+				<item><ItemLink>190732</ItemLink><Weight>10</Weight></item> <!--Sarah Bartok-->
+				<item><ItemLink>112391</ItemLink><Weight>10</Weight></item> <!--Serendipitous Tombola of Inexplicable Curiosity-->
+				<item><ItemLink>190269</ItemLink><Weight>10</Weight></item> <!--Sgt. Nicolas Gabriel-->
+				<item><ItemLink>191010</ItemLink><Weight>10</Weight></item> <!--Sir Charles Rafferty-->
+				<item><ItemLink>112394</ItemLink><Weight>10</Weight></item> <!--The "Bish Bang Bibbly" Experimental Display-->
+				<item><ItemLink>116184</ItemLink><Weight>10</Weight></item> <!--The "Don't Leave It 'Til L8r!" EspressoN8r-->
+				<item><ItemLink>116188</ItemLink><Weight>10</Weight></item> <!--The "Magnificone" Ice Cream Maker-->
+				<item><ItemLink>111048</ItemLink><Weight>10</Weight></item> <!--The International Liberal Forum on Art and Craft-->
+				<!-- Legendary Items for Trade Union (40 Items) -->
+				<item><ItemLink>125122</ItemLink><Weight>10</Weight></item> <!-- Aaden Issack-->
+				<item><ItemLink>190237</ItemLink><Weight>10</Weight></item> <!-- Angela "Meg" Iver-->
+				<item><ItemLink>191383</ItemLink><Weight>10</Weight></item> <!-- Brother Hilarius-->
+				<item><ItemLink>191422</ItemLink><Weight>10</Weight></item> <!-- Bruno Ironbright-->
+				<item><ItemLink>125139</ItemLink><Weight>10</Weight></item> <!-- Bumm Brimmell-->
+				<item><ItemLink>125116</ItemLink><Weight>10</Weight></item> <!-- Calla Lily-->
+				<item><ItemLink>116185</ItemLink><Weight>10</Weight></item> <!-- Cola Mola Wola Machine-->
+				<item><ItemLink>190752</ItemLink><Weight>10</Weight></item> <!-- Cosmo Castelli-->
+				<item><ItemLink>191347</ItemLink><Weight>10</Weight></item> <!-- Cristobal Taffeta-->
+				<item><ItemLink>190693</ItemLink><Weight>10</Weight></item> <!-- Dr. Ali Al-Zahir-->
+				<item><ItemLink>112367</ItemLink><Weight>10</Weight></item> <!-- ForkTuN8 Mk.3 - Very ForktuN8 Indeed-->
+				<item><ItemLink>190627</ItemLink><Weight>10</Weight></item> <!-- François Strindberg-->
+				<item><ItemLink>191465</ItemLink><Weight>10</Weight></item> <!-- François Thorne-->
+				<item><ItemLink>191334</ItemLink><Weight>10</Weight></item> <!-- Gennaro Garibaldi-->
+				<item><ItemLink>191310</ItemLink><Weight>10</Weight></item> <!-- Gerhard Fuchs-->
+				<item><ItemLink>125133</ItemLink><Weight>10</Weight></item> <!-- Giorgis-->
+				<item><ItemLink>116190</ItemLink><Weight>10</Weight></item> <!-- Golden Harvester From The Future-->
+				<item><ItemLink>191324</ItemLink><Weight>10</Weight></item> <!-- Hans Klein-->
+				<item><ItemLink>190705</ItemLink><Weight>10</Weight></item> <!-- Henri Zanchi-->
+				<item><ItemLink>191319</ItemLink><Weight>10</Weight></item> <!-- Hervé Savonne-->
+				<item><ItemLink>112373</ItemLink><Weight>10</Weight></item> <!-- Human IncarN8 Nr. 9-->
+				<item><ItemLink>190761</ItemLink><Weight>10</Weight></item> <!-- Jörg von Malching-->
+				<item><ItemLink>191329</ItemLink><Weight>10</Weight></item> <!-- Lady Jane Smythe-->
+				<item><ItemLink>191408</ItemLink><Weight>10</Weight></item> <!-- Marcel Forcas-->
+				<item><ItemLink>191371</ItemLink><Weight>10</Weight></item> <!-- Marco de la Mocha-->
+				<item><ItemLink>190632</ItemLink><Weight>10</Weight></item> <!-- Marie-Antoine-->
+				<item><ItemLink>191584</ItemLink><Weight>10</Weight></item> <!-- Mark van der Mark-->
+				<item><ItemLink>191388</ItemLink><Weight>10</Weight></item> <!-- Maxime Graves-->
+				<item><ItemLink>190650</ItemLink><Weight>10</Weight></item> <!-- Mme. Elise "The Nose" Bouquet-->
+				<item><ItemLink>191407</ItemLink><Weight>10</Weight></item> <!-- Mrs. Mayson-->
+				<item><ItemLink>191355</ItemLink><Weight>10</Weight></item> <!-- Prof. Ram Devi-->
+				<item><ItemLink>191431</ItemLink><Weight>10</Weight></item> <!-- Seraphim Papadikas-->
+				<item><ItemLink>191591</ItemLink><Weight>10</Weight></item> <!-- Steven MacLeod-->
+				<item><ItemLink>113799</ItemLink><Weight>10</Weight></item> <!-- Susannah Brightwoman-->
+				<item><ItemLink>116187</ItemLink><Weight>10</Weight></item> <!-- The "Country Bumpkin" Cigar Roller-->
+				<item><ItemLink>116189</ItemLink><Weight>10</Weight></item> <!-- The Bizarro-Balloono-Magn8-->
+				<item><ItemLink>191402</ItemLink><Weight>10</Weight></item> <!-- Tlayolotl Savor-->
+				<item><ItemLink>112376</ItemLink><Weight>10</Weight></item> <!-- UltiN8 Power Matrix-->
+				<item><ItemLink>190739</ItemLink><Weight>10</Weight></item> <!-- Ursula Green-->
+				<item><ItemLink>190643</ItemLink><Weight>10</Weight></item> <!-- Victor Perfecto-->
+			</ItemsPool>
+			<IgnoreUnlocks>1</IgnoreUnlocks>
+		</RewardPool>
+	</ModOp>
+	<!-- Old Nate - Cape Trelawney | Airships (5 items), Salvager (33 items) & All Treasure Maps (48 items). (Total: 86 items) -->
 	<ModOp Type="replace" GUID='193452' Path="/Values/RewardPool">
 		<RewardPool>
 			<ItemsPool>
@@ -1416,6 +1512,17 @@
 				<Item><ItemLink>113195</ItemLink><Weight>10</Weight></Item>
 				<Item><ItemLink>112935</ItemLink><Weight>10</Weight></Item>
 				<Item><ItemLink>115477</ItemLink><Weight>10</Weight></Item>
+				<!-- Enbesa Treasure Maps (10 Items) -->
+				<Item><ItemLink>129239</ItemLink><Weight>10</Weight></Item>
+				<Item><ItemLink>129237</ItemLink><Weight>10</Weight></Item>
+				<Item><ItemLink>129236</ItemLink><Weight>10</Weight></Item>
+				<Item><ItemLink>129249</ItemLink><Weight>10</Weight></Item>
+				<Item><ItemLink>129243</ItemLink><Weight>10</Weight></Item>
+				<Item><ItemLink>129222</ItemLink><Weight>10</Weight></Item>
+				<Item><ItemLink>129248</ItemLink><Weight>10</Weight></Item>
+				<Item><ItemLink>129240</ItemLink><Weight>10</Weight></Item>
+				<Item><ItemLink>129238</ItemLink><Weight>10</Weight></Item>
+				<Item><ItemLink>129251</ItemLink><Weight>10</Weight></Item>
 			</ItemsPool>
 			<IgnoreUnlocks>1</IgnoreUnlocks>
 		</RewardPool>
@@ -1636,7 +1743,7 @@
 		<OfferingItems>192070</OfferingItems>
 		<MaxItemsToOffer>512</MaxItemsToOffer>
 	</ModOp>
-	<!-- Pirates - New World -->
+	<!-- Jean La Fortune (Pirates) - New World -->
 	<ModOp Type="merge" GUID='76' Path="/Values/Trader/Progression/EarlyGame">
 		<OfferingItems>192071</OfferingItems>
 		<MaxItemsToOffer>512</MaxItemsToOffer>
