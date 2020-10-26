@@ -1140,6 +1140,63 @@
 			<IgnoreUnlocks>1</IgnoreUnlocks>
 		</RewardPool>
 	</ModOp>
+	<!-- Anne Harlow - Old World | Legendaries for Ships and Harbourmaster's Office (Total: 48 item) -->
+	<ModOp Type="replace" GUID='192070' Path="/Values/RewardPool">
+		<RewardPool>
+			<ItemsPool>
+				<!-- Legendaries for Ships and Harbourmaster's Office (48 item) -->
+				<item><ItemLink>191610</ItemLink><Weight>10</Weight></item> <!--Admiral Haynes-->
+				<item><ItemLink>191451</ItemLink><Weight>10</Weight></item> <!--Captain Felicity Phoenix-->
+				<item><ItemLink>191452</ItemLink><Weight>10</Weight></item> <!--Captain Richard Moses-->
+				<item><ItemLink>191453</ItemLink><Weight>10</Weight></item> <!--Captain Smith-->
+				<item><ItemLink>191611</ItemLink><Weight>10</Weight></item> <!--Commmodore Stephen Drake-->
+				<item><ItemLink>191624</ItemLink><Weight>10</Weight></item> <!--Ermenegilda Di Mercante-->
+				<item><ItemLink>191609</ItemLink><Weight>10</Weight></item> <!--Georgina Duffy-->
+				<item><ItemLink>191991</ItemLink><Weight>10</Weight></item> <!--Great White Flag-->
+				<item><ItemLink>191626</ItemLink><Weight>10</Weight></item> <!--Hans Eichendorf-->
+				<item><ItemLink>112379</ItemLink><Weight>10</Weight></item> <!--Jet Propeller — "Hurricane"-->
+				<item><ItemLink>191625</ItemLink><Weight>10</Weight></item> <!--Lalla Mazigh-->
+				<item><ItemLink>191608</ItemLink><Weight>10</Weight></item> <!--Lord High Admiral Nadasky-->
+				<item><ItemLink>121023</ItemLink><Weight>10</Weight></item> <!--Ocean Plotting Sheet of the Southern Hemisphere-->
+				<item><ItemLink>192155</ItemLink><Weight>10</Weight></item> <!--Poppinjay's Pulleyed Patcher-Upper-->
+				<item><ItemLink>191851</ItemLink><Weight>10</Weight></item> <!--Singh's Steel Double-Hull-->
+				<item><ItemLink>192465</ItemLink><Weight>10</Weight></item> <!--Anna Union-->
+				<item><ItemLink>190622</ItemLink><Weight>10</Weight></item> <!--Captain Moby-->
+				<item><ItemLink>191882</ItemLink><Weight>10</Weight></item> <!--Deke's Indispensible Dockyard Crate-->
+				<item><ItemLink>112388</ItemLink><Weight>10</Weight></item> <!--Evil ExsanguiN8r-->
+				<item><ItemLink>191436</ItemLink><Weight>10</Weight></item> <!--Field Marshall Matravers-->
+				<item><ItemLink>191442</ItemLink><Weight>10</Weight></item> <!--General Ewing Thomson-->
+				<item><ItemLink>192457</ItemLink><Weight>10</Weight></item> <!--Gideon Small-->
+				<item><ItemLink>113792</ItemLink><Weight>10</Weight></item> <!--Hogarth the Harbourmaster-->
+				<item><ItemLink>192036</ItemLink><Weight>10</Weight></item> <!--Hydraulic Crane-->
+				<item><ItemLink>191886</ItemLink><Weight>10</Weight></item> <!--Hydraulic Repair Crane-->
+				<item><ItemLink>121020</ItemLink><Weight>10</Weight></item> <!--Khadija Tsegaye-->
+				<item><ItemLink>190668</ItemLink><Weight>10</Weight></item> <!--Lady Banes-->
+				<item><ItemLink>192460</ItemLink><Weight>10</Weight></item> <!--Maria Pizarro-->
+				<item><ItemLink>192458</ItemLink><Weight>10</Weight></item> <!--Petra Piper-->
+				<item><ItemLink>112385</ItemLink><Weight>10</Weight></item> <!--RacioN8d Super Spinner-->
+				<item><ItemLink>190698</ItemLink><Weight>10</Weight></item> <!--Rohit Bhargava-->
+				<item><ItemLink>192459</ItemLink><Weight>10</Weight></item> <!--Shih Yang-->
+				<item><ItemLink>192464</ItemLink><Weight>10</Weight></item> <!--Sir Milfoy Credenza-Belfry-Guscott-->
+				<item><ItemLink>192463</ItemLink><Weight>10</Weight></item> <!--Slinky Sinistra-->
+				<item><ItemLink>112382</ItemLink><Weight>10</Weight></item> <!--Sticky Shiny Claws-->
+				<item><ItemLink>192461</ItemLink><Weight>10</Weight></item> <!--Stilton Snood-->
+				<item><ItemLink>192462</ItemLink><Weight>10</Weight></item> <!--Suspicia Slyhood-->
+				<item><ItemLink>190684</ItemLink><Weight>10</Weight></item> <!--Thomasina Langton-->
+				<item><ItemLink>192177</ItemLink><Weight>10</Weight></item> <!--Thundering Loudspeaker Network-->
+				<item><ItemLink>112370</ItemLink><Weight>10</Weight></item> <!--DomiN8r-->
+				<item><ItemLink>110955</ItemLink><Weight>10</Weight></item> <!--Dr. Mercier's Feverishly Federating Flag of the Free-->
+				<item><ItemLink>111130</ItemLink><Weight>10</Weight></item> <!--Ella Golden-->
+				<item><ItemLink>191869</ItemLink><Weight>10</Weight></item> <!--Mulcher M1897-->
+				<item><ItemLink>192168</ItemLink><Weight>10</Weight></item> <!--Mullivann's Multi-Shot Mortar-->
+				<item><ItemLink>192172</ItemLink><Weight>10</Weight></item> <!--Pirate Captain's Black Flag-->
+				<item><ItemLink>192434</ItemLink><Weight>10</Weight></item> <!--Pyrphorian Flame Thrower-->
+				<item><ItemLink>191855</ItemLink><Weight>10</Weight></item> <!--Strongarm's Disappearing Gun-->
+				<item><ItemLink>191607</ItemLink><Weight>10</Weight></item> <!--Wilma the Wild-->
+			</ItemsPool>
+			<IgnoreUnlocks>1</IgnoreUnlocks>
+		</RewardPool>
+	</ModOp>
 	<!-- Isabel Sarmento - New World  --> 
 	<!-- Museum non set Artifacts (55 items), Botanical Garden non set Plants (17 items), Zoo non set Animals (43 items) & New World's Treasure Maps (9 items). (Total: 124 items) -->
 	<ModOp Type="replace" GUID='192073' Path="/Values/RewardPool">
@@ -1435,6 +1492,99 @@
 			<IgnoreUnlocks>1</IgnoreUnlocks>
 		</RewardPool>
 	</ModOp>
+	<!-- Emperor Ketema - Enbesa | Harbourmaster's Office (7 items), Trade Union (38 items), Town Hall (26 Items), Enbesa Treasure Maps (10 items) (Total: 81 items) -->
+	<ModOp Type="replace" GUID='127480' Path="/Values/RewardPool">
+		<RewardPool>
+			<ItemsPool>
+				<!-- Enbesa - Harbourmaster's Office (7 items) -->
+				<item><ItemLink>125057</ItemLink><Weight>10</Weight></item> <!--Captain Nineveh's Miraculous Lobster Trap-->
+				<item><ItemLink>131014</ItemLink><Weight>10</Weight></item> <!--Ketema's Cousin-->
+				<item><ItemLink>121020</ItemLink><Weight>10</Weight></item> <!--Khadija Tsegaye-->
+				<item><ItemLink>125136</ItemLink><Weight>10</Weight></item> <!--Lobsterman-->
+				<item><ItemLink>125056</ItemLink><Weight>10</Weight></item> <!--Net Trap-->
+				<item><ItemLink>121022</ItemLink><Weight>10</Weight></item> <!--Rear Admiral Richard B. Sharpe-->
+				<item><ItemLink>125135</ItemLink><Weight>10</Weight></item> <!--Seasoned Salter-->
+				<!-- Enbesa - Trade Union (38 items) -->
+				<item><ItemLink>125122</ItemLink><Weight>10</Weight></item> <!-- Aaden Issack -->
+				<item><ItemLink>125066</ItemLink><Weight>10</Weight></item> <!-- Adjustable Mannequin -->
+				<item><ItemLink>125052</ItemLink><Weight>10</Weight></item> <!-- Advanced Sluice Gate -->
+				<item><ItemLink>125050</ItemLink><Weight>10</Weight></item> <!-- Berkeley Meat Sunderer -->
+				<item><ItemLink>125137</ItemLink><Weight>10</Weight></item> <!-- Bespoke Tailor -->
+				<item><ItemLink>125053</ItemLink><Weight>10</Weight></item> <!-- Biniam's Floodgate -->
+				<item><ItemLink>125058</ItemLink><Weight>10</Weight></item> <!-- Birdhouse -->
+				<item><ItemLink>125067</ItemLink><Weight>10</Weight></item> <!-- Blotherhithe's Fusing Machine -->
+				<item><ItemLink>125044</ItemLink><Weight>10</Weight></item> <!-- Book-Binding Frame -->
+				<item><ItemLink>125139</ItemLink><Weight>10</Weight></item> <!-- Bumm Brimmell -->
+				<item><ItemLink>125116</ItemLink><Weight>10</Weight></item> <!-- Calla Lily -->
+				<item><ItemLink>125126</ItemLink><Weight>10</Weight></item> <!-- Careful Craftsman -->
+				<item><ItemLink>125068</ItemLink><Weight>10</Weight></item> <!-- Cobbler's Last -->
+				<item><ItemLink>125124</ItemLink><Weight>10</Weight></item> <!-- Enbesan Bishop -->
+				<item><ItemLink>125043</ItemLink><Weight>10</Weight></item> <!-- Enbesan Book-Binding Kit -->
+				<item><ItemLink>125112</ItemLink><Weight>10</Weight></item> <!-- Expert Grazer -->
+				<item><ItemLink>125069</ItemLink><Weight>10</Weight></item> <!-- Eyeleting Machine -->
+				<item><ItemLink>125049</ItemLink><Weight>10</Weight></item> <!-- Fine Curing Chamber -->
+				<item><ItemLink>125115</ItemLink><Weight>10</Weight></item> <!-- Flower Girl -->
+				<item><ItemLink>125133</ItemLink><Weight>10</Weight></item> <!-- Giorgis -->
+				<item><ItemLink>125046</ItemLink><Weight>10</Weight></item> <!-- Hive Smoker -->
+				<item><ItemLink>125045</ItemLink><Weight>10</Weight></item> <!-- Industrial Binding Machine -->
+				<item><ItemLink>125055</ItemLink><Weight>10</Weight></item> <!-- Ketema's Industrial Kiln -->
+				<item><ItemLink>125113</ItemLink><Weight>10</Weight></item> <!-- Loving Goatherd -->
+				<item><ItemLink>125128</ItemLink><Weight>10</Weight></item> <!-- Magan -->
+				<item><ItemLink>125048</ItemLink><Weight>10</Weight></item> <!-- Meat Guillotine -->
+				<item><ItemLink>125059</ItemLink><Weight>10</Weight></item> <!-- Mosquito Net -->
+				<item><ItemLink>125138</ItemLink><Weight>10</Weight></item> <!-- Paul Poiret -->
+				<item><ItemLink>125054</ItemLink><Weight>10</Weight></item> <!-- Potter's Wheel -->
+				<item><ItemLink>125047</ItemLink><Weight>10</Weight></item> <!-- Queenby Apiary Suit -->
+				<item><ItemLink>125062</ItemLink><Weight>10</Weight></item> <!-- Sluggish Surge-Wheel -->
+				<item><ItemLink>125070</ItemLink><Weight>10</Weight></item> <!-- Sole-Searcher's Stitcher -->
+				<item><ItemLink>125061</ItemLink><Weight>10</Weight></item> <!-- Spare Wheel -->
+				<item><ItemLink>125131</ItemLink><Weight>10</Weight></item> <!-- Spice Master -->
+				<item><ItemLink>125051</ItemLink><Weight>10</Weight></item> <!-- Stop Gate -->
+				<item><ItemLink>125118</ItemLink><Weight>10</Weight></item> <!-- Tea Selector -->
+				<item><ItemLink>125129</ItemLink><Weight>10</Weight></item> <!-- Wahenoor -->
+				<item><ItemLink>125060</ItemLink><Weight>10</Weight></item> <!-- Yebeba's Sturdy Greenhouse -->
+				<!-- Enbesa - Town Hall (26 Items) -->
+				<item><ItemLink>125132</ItemLink><Weight>10</Weight></item> <!--Aesop-->
+				<item><ItemLink>121004</ItemLink><Weight>10</Weight></item> <!--Amadi Ilga-->
+				<item><ItemLink>129022</ItemLink><Weight>10</Weight></item> <!--Amazing Fashion Designer-->
+				<item><ItemLink>125142</ItemLink><Weight>10</Weight></item> <!--Associate Professor of Faculty-->
+				<item><ItemLink>125121</ItemLink><Weight>10</Weight></item> <!--Banquet Chef-->
+				<item><ItemLink>125072</ItemLink><Weight>10</Weight></item> <!--Broadcast Relay Station-->
+				<item><ItemLink>125143</ItemLink><Weight>10</Weight></item> <!--Dean-->
+				<item><ItemLink>125144</ItemLink><Weight>10</Weight></item> <!--Djimon-->
+				<item><ItemLink>125065</ItemLink><Weight>10</Weight></item> <!--Drum of Selamawi-->
+				<item><ItemLink>125130</ItemLink><Weight>10</Weight></item> <!--Elder Selassy'e-->
+				<item><ItemLink>131387</ItemLink><Weight>10</Weight></item> <!--Enbesan Fire Tamer-->
+				<item><ItemLink>125120</ItemLink><Weight>10</Weight></item> <!--Enthusiast Cook-->
+				<item><ItemLink>125146</ItemLink><Weight>10</Weight></item> <!--Eshe-->
+				<item><ItemLink>125063</ItemLink><Weight>10</Weight></item> <!--Hollow-Tree Drum-->
+				<item><ItemLink>125127</ItemLink><Weight>10</Weight></item> <!--Industrious Embroidress-->
+				<item><ItemLink>125114</ItemLink><Weight>10</Weight></item> <!--Kaldi-->
+				<item><ItemLink>125140</ItemLink><Weight>10</Weight></item> <!--Lineman-->
+				<item><ItemLink>125134</ItemLink><Weight>10</Weight></item> <!--Mulatu-->
+				<item><ItemLink>125123</ItemLink><Weight>10</Weight></item> <!--Pater Dekama-->
+				<item><ItemLink>125125</ItemLink><Weight>10</Weight></item> <!--Patriarch Matteos X-->
+				<item><ItemLink>125119</ItemLink><Weight>10</Weight></item> <!--Shayi Shaah-->
+				<item><ItemLink>125117</ItemLink><Weight>10</Weight></item> <!--Soft Drink Seller-->
+				<item><ItemLink>125071</ItemLink><Weight>10</Weight></item> <!--Telephone Repeater-->
+				<item><ItemLink>125064</ItemLink><Weight>10</Weight></item> <!--Ten-String Krar-->
+				<item><ItemLink>125141</ItemLink><Weight>10</Weight></item> <!--Tuned-In Radio Operator-->
+				<item><ItemLink>125145</ItemLink><Weight>10</Weight></item> <!--Wise Enbesan Homesteader-->
+				<!-- Enbesa Treasure Maps (10 Items) -->
+				<Item><ItemLink>129239</ItemLink><Weight>10</Weight></Item>
+				<Item><ItemLink>129237</ItemLink><Weight>10</Weight></Item>
+				<Item><ItemLink>129236</ItemLink><Weight>10</Weight></Item>
+				<Item><ItemLink>129249</ItemLink><Weight>10</Weight></Item>
+				<Item><ItemLink>129243</ItemLink><Weight>10</Weight></Item>
+				<Item><ItemLink>129222</ItemLink><Weight>10</Weight></Item>
+				<Item><ItemLink>129248</ItemLink><Weight>10</Weight></Item>
+				<Item><ItemLink>129240</ItemLink><Weight>10</Weight></Item>
+				<Item><ItemLink>129238</ItemLink><Weight>10</Weight></Item>
+				<Item><ItemLink>129251</ItemLink><Weight>10</Weight></Item>
+			</ItemsPool>
+			<IgnoreUnlocks>1</IgnoreUnlocks>
+		</RewardPool>
+	</ModOp>
 	<!-- Mergers -->
 	<!-- Sir Archbald - Old World -->
 	<ModOp Type="merge" GUID='45' Path="/Values/Trader/Progression/EarlyGame">
@@ -1461,7 +1611,7 @@
 		<OfferingItems>192069</OfferingItems>
 		<MaxItemsToOffer>512</MaxItemsToOffer>
 	</ModOp>
-	<!-- Pirates - Old World -->
+	<!-- Anne Harlow (Pirates) - Old World -->
 	<ModOp Type="merge" GUID='73' Path="/Values/Trader/Progression/EarlyGame">
 		<OfferingItems>192070</OfferingItems>
 		<MaxItemsToOffer>512</MaxItemsToOffer>
@@ -1634,6 +1784,31 @@
 	</ModOp>
 	<ModOp Type="merge" GUID='237' Path="/Values/Trader/Progression/EndGame">
 		<OfferingItems>193835</OfferingItems>
+		<MaxItemsToOffer>512</MaxItemsToOffer>
+	</ModOp>
+	<!-- Emperor Ketema - Enbesa -->
+	<ModOp Type="merge" GUID='119051' Path="/Values/Trader/Progression/EarlyGame">
+		<OfferingItems>127480</OfferingItems>
+		<MaxItemsToOffer>512</MaxItemsToOffer>
+	</ModOp>
+	<ModOp Type="merge" GUID='119051' Path="/Values/Trader/Progression/EarlyMidGame">
+		<OfferingItems>127480</OfferingItems>
+		<MaxItemsToOffer>512</MaxItemsToOffer>
+	</ModOp>
+	<ModOp Type="merge" GUID='119051' Path="/Values/Trader/Progression/MidGame">
+		<OfferingItems>127480</OfferingItems>
+		<MaxItemsToOffer>512</MaxItemsToOffer>
+	</ModOp>
+	<ModOp Type="merge" GUID='119051' Path="/Values/Trader/Progression/LateMidGame">
+		<OfferingItems>127480</OfferingItems>
+		<MaxItemsToOffer>512</MaxItemsToOffer>
+	</ModOp>
+	<ModOp Type="merge" GUID='119051' Path="/Values/Trader/Progression/LateGame">
+		<OfferingItems>127480</OfferingItems>
+		<MaxItemsToOffer>512</MaxItemsToOffer>
+	</ModOp>
+	<ModOp Type="merge" GUID='119051' Path="/Values/Trader/Progression/EndGame">
+		<OfferingItems>127480</OfferingItems>
 		<MaxItemsToOffer>512</MaxItemsToOffer>
 	</ModOp>
 </ModOps>
