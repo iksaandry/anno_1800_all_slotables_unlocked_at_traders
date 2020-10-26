@@ -7,7 +7,9 @@
 
 Traders and categories of goods list:
 
-## Sir Archbald Blake ***(High Clarence Hall)*** - Old World (Total: 210 items)
+![Sir Archbald Blake](https://raw.githubusercontent.com/iksaandry/anno_1800_all_slotables_unlocked_at_traders/master/assets/Sir_Archibald_Blake.png)
+
+## **Sir Archbald Blake** ***(High Clarence Hall)*** - Old World (Total: 210 items)
 	- Equipables for military ships (56 items)
 	- sailing ships (3 items) 
 	- ships (62 items) 
@@ -15,12 +17,12 @@ Traders and categories of goods list:
 	- Old World's Treasure Maps (9 items) 
 	- Habourmaster's Office (71 items)
 
-## Eli Bleakworth ***(Wormways Prision)*** - Old World (Total: 541 items)
+![Eli Bleakworth](https://raw.githubusercontent.com/iksaandry/anno_1800_all_slotables_unlocked_at_traders/master/assets/Eli_Bleakworth.png)
+
+## **Eli Bleakworth** ***(Wormways Prision)*** - Old World (Total: 541 items)
 	- Equipables for Trade Union (323 items) 
 	- Town Hall (218 items)
   
-
-
 ![Kahina](https://raw.githubusercontent.com/iksaandry/anno_1800_all_slotables_unlocked_at_traders/master/assets/Madame_Kahina.png)
 	
 ## **Madame Kahina** ***(Emporium Exotique)*** - Old World (Total: 269 items)
@@ -57,7 +59,7 @@ Traders and categories of goods list:
 
 ![Qumaq](https://raw.githubusercontent.com/iksaandry/anno_1800_all_slotables_unlocked_at_traders/master/assets/Qumaq%20(1).png)
 
-## Qumaq ***(Tunnganarniq)*** - Arctic (Total: 61 items)
+## **Qumaq** ***(Tunnganarniq)*** - Arctic (Total: 61 items)
 	- Airships (5 items)
 	- Arctic Lodge (47 items)
 	- Arctic Treasure Maps (9 items)
