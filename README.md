@@ -3,9 +3,9 @@
 
 **REQUIRES [ANNO 1800 MOD LOADER](https://github.com/xforce/anno1800-mod-loader/releases) BY @xforce**
 
-# [Like my work and would like to support? I'm on Patreon!](https://www.patreon.com/iksaandry)
+## [Like my work and would like to support? I'm on Patreon!](https://www.patreon.com/iksaandry)
 
-Traders and categories of goods list:
+### Traders and categories of goods list:
 
 ![Sir Archbald Blake](https://raw.githubusercontent.com/iksaandry/anno_1800_all_slotables_unlocked_at_traders/master/assets/Sir_Archibald_Blake_.png)
 
