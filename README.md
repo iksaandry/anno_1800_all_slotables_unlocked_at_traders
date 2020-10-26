@@ -45,6 +45,13 @@
 	
 	- Trade union + Town Hall + Harbourmaster's office Attractiveness slotables (82 items)
 
+![Anne Harlow](https://raw.githubusercontent.com/iksaandry/anno_1800_all_slotables_unlocked_at_traders/master/assets/images/traders/Anne_Harlow.png)
+
+## **Anne Harlow** ***(Calamity Cove)*** - Old World (Total: 63 items)
+
+	- Legendaries for Ships and Harbourmaster's Office (48 items)
+	- Legendary Treasure Maps (15 items)
+
 ![Isabel Sarmento](https://raw.githubusercontent.com/iksaandry/anno_1800_all_slotables_unlocked_at_traders/master/assets/images/traders/Isabel_Sarmento.png)
 
 ## **Isabel Sarmento** ***(El Puerto)*** - New World (Total: 124 items)
