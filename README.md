@@ -19,14 +19,27 @@ Traders and categories of goods list:
 	- Equipables for Trade Union (323 items) 
 	- Town Hall (218 items)
   
-## Madame Kahina ***(Emporium Exotique)*** - Old World (Total: 269 items)
-![Botanical_Garden_Complete](https://raw.githubusercontent.com/iksaandry/anno_1800_all_slotables_unlocked_at_traders/master/assets/botanical_garden.PNG)
+
+
+![Kahina](https://raw.githubusercontent.com/iksaandry/anno_1800_all_slotables_unlocked_at_traders/master/assets/Madame_Kahina.png)
 	
+## **Madame Kahina** ***(Emporium Exotique)*** - Old World (Total: 269 items)
+
 	- Ornaments (11 items) 
 	- Music Sheets (5 items)
+	
 	- Museum sets (60 items) 
+
+![Museum_Complete](https://raw.githubusercontent.com/iksaandry/anno_1800_all_slotables_unlocked_at_traders/master/assets/anno_1800_museum_complete_basegame.jpg)
+	
 	- Zoo Sets (60 items) 
+	
+![Zoo_Complete](https://raw.githubusercontent.com/iksaandry/anno_1800_all_slotables_unlocked_at_traders/master/assets/anno_1800_zoo_complete_basegame.jpg)
+	
 	- Botanical Garden Sets (51 items)
+	
+![Botanical_Garden_Complete](https://raw.githubusercontent.com/iksaandry/anno_1800_all_slotables_unlocked_at_traders/master/assets/botanical_garden.PNG)
+	
 	- Trade union + Town Hall + Harbourmaster's office Attractiveness slotables (82 items)
 
 ## Isabel Sarmento ***(El Puerto)*** - New World (Total: 124 items)
