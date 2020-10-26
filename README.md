@@ -7,7 +7,7 @@
 
 Traders and categories of goods list:
 
-![Sir Archbald Blake](https://raw.githubusercontent.com/iksaandry/anno_1800_all_slotables_unlocked_at_traders/master/assets/Sir_Archibald_Blake.png)
+![Sir Archbald Blake](https://raw.githubusercontent.com/iksaandry/anno_1800_all_slotables_unlocked_at_traders/master/assets/Sir_Archibald_Blake_.png)
 
 ## **Sir Archbald Blake** ***(High Clarence Hall)*** - Old World (Total: 210 items)
 	- Equipables for military ships (56 items)
@@ -17,7 +17,7 @@ Traders and categories of goods list:
 	- Old World's Treasure Maps (9 items) 
 	- Habourmaster's Office (71 items)
 
-![Eli Bleakworth](https://raw.githubusercontent.com/iksaandry/anno_1800_all_slotables_unlocked_at_traders/master/assets/Eli_Bleakworth.png)
+![Eli Bleakworth](https://raw.githubusercontent.com/iksaandry/anno_1800_all_slotables_unlocked_at_traders/master/assets/Eli_Bleakworth_.png)
 
 ## **Eli Bleakworth** ***(Wormways Prision)*** - Old World (Total: 541 items)
 	- Equipables for Trade Union (323 items) 
