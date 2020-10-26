@@ -52,6 +52,22 @@
 				<item><ItemLink>192434</ItemLink><Weight>10</Weight></item> <!--Pyrphorian Flame Thrower-->
 				<item><ItemLink>191855</ItemLink><Weight>10</Weight></item> <!--Strongarm's Disappearing Gun-->
 				<item><ItemLink>191607</ItemLink><Weight>10</Weight></item> <!--Wilma the Wild-->
+				<!-- Legendary Treasure Maps (15 items) -->
+				<item><ItemLink>129238</ItemLink><Weight>10</Weight></item> <!--Cliffside Map-->
+				<item><ItemLink>113194</ItemLink><Weight>10</Weight></item> <!--Jörmungandr's Lair-->
+				<item><ItemLink>129240</ItemLink><Weight>10</Weight></item> <!--Map of an Ancient Outpost-->
+				<item><ItemLink>113204</ItemLink><Weight>10</Weight></item> <!--Map of Isabel Sarmento's Emergency Vault-->
+				<item><ItemLink>115483</ItemLink><Weight>10</Weight></item> <!--Map of Old Nate's Prototype Airship Crash Site-->
+				<item><ItemLink>113205</ItemLink><Weight>10</Weight></item> <!--Map of Vicente Silva's Sunken Ship-of-the-Line-->
+				<item><ItemLink>113203</ItemLink><Weight>10</Weight></item> <!--Map of Willie Wibblesock's Wondrous Stash-->
+				<item><ItemLink>115480</ItemLink><Weight>10</Weight></item> <!--Megalodon's Abyss-->
+				<item><ItemLink>129251</ItemLink><Weight>10</Weight></item> <!--Shipwrecked Captain's Map-->
+				<item><ItemLink>112940</ItemLink><Weight>10</Weight></item> <!--The Gates to Paititi-->
+				<item><ItemLink>112941</ItemLink><Weight>10</Weight></item> <!--The Herdsman's Journal-->
+				<item><ItemLink>113196</ItemLink><Weight>10</Weight></item> <!--The Kraken's Pit-->
+				<item><ItemLink>113195</ItemLink><Weight>10</Weight></item> <!--The Nest of Gukulmatz-->
+				<item><ItemLink>112935</ItemLink><Weight>10</Weight></item> <!--The Palaces of Baiea-->
+				<item><ItemLink>115477</ItemLink><Weight>10</Weight></item> <!--The Portal to Hyperborea-->
 			</ItemsPool>
 			<IgnoreUnlocks>1</IgnoreUnlocks>
 		</RewardPool>
