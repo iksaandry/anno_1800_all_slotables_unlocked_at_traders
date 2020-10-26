@@ -32,10 +32,12 @@
 	- Museum sets (60 items) 
 
 ![Museum_Complete](https://raw.githubusercontent.com/iksaandry/anno_1800_all_slotables_unlocked_at_traders/master/assets/anno_1800_museum_complete_basegame.jpg)
+![Museum_Complete DLC](https://raw.githubusercontent.com/iksaandry/anno_1800_all_slotables_unlocked_at_traders/master/assets/anno_1800_museum_complete_DLC.jpg)
 	
 	- Zoo Sets (60 items) 
 	
 ![Zoo_Complete](https://raw.githubusercontent.com/iksaandry/anno_1800_all_slotables_unlocked_at_traders/master/assets/anno_1800_zoo_complete_basegame.jpg)
+![Zoo_Complete DLC](https://raw.githubusercontent.com/iksaandry/anno_1800_all_slotables_unlocked_at_traders/master/assets/anno_1800_zoo_complete_DLC.jpg)
 	
 	- Botanical Garden Sets (51 items)
 	
