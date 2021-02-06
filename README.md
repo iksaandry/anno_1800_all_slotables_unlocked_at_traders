@@ -1,5 +1,5 @@
 # Mod to unlock all slotables at traders for Anno 1800
-![anno_1800_all_slotables_unlocked_at_traders](https://raw.githubusercontent.com/iksaandry/anno_1800_all_slotables_unlocked_at_traders/master/assets/images/cover/allslotablesunlockedattraders_cover.webp)
+![anno_1800_all_slotables_unlocked_at_traders](https://raw.githubusercontent.com/iksaandry/anno_1800_all_slotables_unlocked_at_traders/master/assets/images/cover/all_items_unlocked_at_traders_mod_opt.jpg)
 
 **REQUIRES [ANNO 1800 MOD LOADER](https://github.com/xforce/anno1800-mod-loader/releases) BY @xforce**
 
